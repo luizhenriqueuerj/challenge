@@ -27,6 +27,30 @@ npm install cypress
   },
 ```
 
+4 - After this, back to terminal and type:
+
+```bash
+npm run cypress
+```
+
+5 - Will open an image like this:
+
+![AfterCypressRun](https://github.com/luizhenriqueuerj/holonic-test-challenge/assets/27731869/f234714a-905c-459a-9041-e19e869d77b8)
+
+6 - Choose a browser and hit on "Start E2E Testing in Chrome":
+
+![Choose a Browser](https://github.com/luizhenriqueuerj/holonic-test-challenge/assets/27731869/63121aea-8378-473f-a7b8-0535116cd916)
+
+7 - Chose the file "testing" to see the test beeing executed.
+
+![ChooseTesting](https://github.com/luizhenriqueuerj/holonic-test-challenge/assets/27731869/70643f29-9e0b-4913-8e4f-90512566b532)
+
+
+
+
+
+
+
 
 
 
